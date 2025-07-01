@@ -1,6 +1,6 @@
 {
   "$GMProject":"v1",
-  "%Name":"Lagi",
+  "%Name":"asrg",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -33,10 +33,9 @@
   "MetaData":{
     "IDEVersion":"2024.13.1.193",
   },
-  "name":"Lagi",
+  "name":"asrg",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"sasf","path":"sprites/sasf/sasf.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
